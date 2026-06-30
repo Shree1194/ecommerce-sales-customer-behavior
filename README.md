@@ -122,6 +122,14 @@ The `sql` folder contains:
 - schema and KPI view definitions
 - 60 interview-level SQL queries covering joins, CTEs, window functions, ranking, subqueries, revenue KPIs, seller performance, delivery performance, and retention analysis
 
+## Screenshots
+
+> Chart and dashboard screenshots have not been added yet. After running the pipeline, exported charts will land in `images/` — add them there and reference them here, e.g.:
+>
+> ```markdown
+> ![Revenue by Category](images/revenue_by_category.png)
+> ```
+
 ## Dashboard
 
 The Power BI blueprint includes:
